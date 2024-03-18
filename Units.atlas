@@ -24,27 +24,6 @@ size: 200, 200
 orig: 200, 200 
 offset: 0, 0 
 index: -1
-UnitIcons/Bat Warrior
-rotate: false 
-xy: 600, 0 
-size: 200, 200 
-orig: 200, 200 
-offset: 0, 0 
-index: -1
-UnitIcons/Magical Bat Infantry
-rotate: false 
-xy: 800, 0 
-size: 200, 200 
-orig: 200, 200 
-offset: 0, 0 
-index: -1
-UnitIcons/Modern Bat Infantry
-rotate: false 
-xy: 1000, 0 
-size: 200, 200 
-orig: 200, 200 
-offset: 0, 0 
-index: -1
 UnitIcons/Bucker
 rotate: false 
 xy: 1200, 0 
@@ -87,13 +66,6 @@ size: 200, 200
 orig: 200, 200 
 offset: 0, 0 
 index: -1
-UnitIcons/Stallioneer
-rotate: false 
-xy: 2400, 0 
-size: 200, 200 
-orig: 200, 200 
-offset: 0, 0 
-index: -1
 UnitIcons/Great Earth Pony
 rotate: false 
 xy: 2600, 0 
@@ -132,6 +104,27 @@ index: -1
 UnitIcons/Fallskärmsjägarna
 rotate: false 
 xy: 3600, 0 
+size: 200, 200 
+orig: 200, 200 
+offset: 0, 0 
+index: -1
+UnitIcons/Tundra Bear
+rotate: false 
+xy: 4000, 0 
+size: 200, 200 
+orig: 200, 200 
+offset: 0, 0 
+index: -1
+UnitIcons/Arctic Killer
+rotate: false 
+xy: 4200, 0 
+size: 200, 200 
+orig: 200, 200 
+offset: 0, 0 
+index: -1
+UnitIcons/Walrus
+rotate: false 
+xy: 4400, 0 
 size: 200, 200 
 orig: 200, 200 
 offset: 0, 0 
